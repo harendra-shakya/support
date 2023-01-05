@@ -6,7 +6,7 @@ Support is very important to me, with it I can do what I love - help devs and ed
 
 Those interested in supporting my work can do so via -
 
-- Ethereum/ERC20/Polygon/BSC/Arbiturm Address – **0xB8B14B7f0E4dF000f0654aF98498d52e567F2bfE**
+- Ethereum/Polygon/BSC/Arbiturm/etc Address – **0xB8B14B7f0E4dF000f0654aF98498d52e567F2bfE**
 
 - Solana Address – **2fM5d1cupj2Mceh1wSYTrq1PSz2JbTbcYipJ4RxRSgMB**
 
