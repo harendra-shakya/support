@@ -1,6 +1,10 @@
 ## Support Me
 
+Creating content is hard and time-consuming, and I'm glad you've recognized that and are considering to support me.
+
 Support is very important to me, with it I can do what I love - help devs and educate people about DeFi & Crypto. I want to thank everyone who sent me donations!
+
+Those interested in supporting my work can do so via -
 
 - Ethereum/ERC20/Polygon/BSC/Arbiturm Address – **0xB8B14B7f0E4dF000f0654aF98498d52e567F2bfE**
 
