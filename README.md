@@ -1,6 +1,6 @@
 ## Support Me
 
-Creating content is hard and time-consuming, and I'm glad you've recognized that and are considering to support me.
+Creating content is hard and time-consuming, and I'm glad you've recognized that and are considering to support my work.
 
 Support is very important to me, with it I can do what I love - help devs and educate people about DeFi & Crypto. I want to thank everyone who sent me donations!
 
