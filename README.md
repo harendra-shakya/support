@@ -12,4 +12,8 @@ Those interested in supporting my work can do so via -
 
 - Bitcoin – **bc1q5nmjw8x40upjd3k9akpmtj682xa3zus7sr7rm3**
 
+- DogeCoin - **DPFhZeZkybzLZj3ReJPdWHnDzv1zU5pugA**
+
+- LiteCoin - **ltc1qzs3tj276zdjtuv5qy7aww3cc3frus8yvjdukln**
+
 - [Binance Referral Link](https://accounts.binance.com/en/register?ref=515918935)
