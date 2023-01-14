@@ -2,7 +2,7 @@
 
 Support is very important to me, with it I can do what I love - help devs and educate people about DeFi & Crypto.
 
-The best way to support is via -
+The best way to support my work is via -
 
 - Ethereum/Polygon/BSC/Arbiturm/etc Address – **0xB8B14B7f0E4dF000f0654aF98498d52e567F2bfE**
 
