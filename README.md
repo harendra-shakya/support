@@ -2,7 +2,7 @@
 
 Your support is crucial to help me continue doing what I love - empowering developers and educating people about the exciting world of DeFi & Crypto.
 
-If you find value in my work, please consider supporting me by: -
+If you find value in my work and want to support my work, you can send me a donation to the address -
 
 - Ethereum/Polygon/BSC/Arbiturm/etc Address – **0xB8B14B7f0E4dF000f0654aF98498d52e567F2bfE**
 
@@ -20,7 +20,7 @@ Much much thanks every single one of you! Your support enables me to create more
 
 #
 
-[My all socials](https://linktr.ee/harendra_shakya)
+[Linktree](https://linktr.ee/harendra_shakya)
 
 #
 
