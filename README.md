@@ -20,8 +20,37 @@ Much much thanks every single one of you! Your support enables me to create more
 
 #
 
-[Linktree](https://linktr.ee/harendra_shakya)
+<p align="left">
+      <a href="https://www.linkedin.com/in/harendra-shakya" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
+            width="32"
+            height="32"
+        />
+    </a>
+    <a href="https://www.twitter.com/harendrashakya_" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"
+            width="32"
+            height="32"
+        />
+    </a>
+    <a href="https://discord.gg/ZprHP39DdP" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"
+            width="32"
+            height="32"
+        />
+    </a>
+    <a href="https://www.github.com/harendra-shakya" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"
+            width="32"
+            height="32"
+        />
+    </a>
+</p>
 
-#
+[Linktree](https://linktr.ee/harendra_shakya)
 
 Thank you! Stay safe!
