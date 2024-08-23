@@ -5,7 +5,7 @@ Your support is crucial to help me continue doing what I love - educating DeFi &
 
 If you find value in my work and want to support my work, you can send me a donation to the address -
 
-- [PayPal](PayPal.Me/devharendra)
+- [PayPal](https://paypal.me/devharendra)
 
 - Ethereum/Polygon/BSC/Arbiturm/etc Address – [**0xB8B14B7f0E4dF000f0654aF98498d52e567F2bfE**](https://etherscan.io/address/0xB8B14B7f0E4dF000f0654aF98498d52e567F2bfE)
 
